@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alvic App</string>
+    <string name="action_menu_add_gallery">Agregar desde Galería</string>
+    <string name="action_menu_add_camera">Agregar desde Cámara</string>
+    <string name="title_photos">Fotos</string>
+    <string name="name_photo">Foto %s</string>
+</resources>
